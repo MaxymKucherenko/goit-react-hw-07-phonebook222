@@ -1,0 +1,25 @@
+.phoneBookForm {
+  display: flex;
+  flex-direction: column;
+
+  width: 400px;
+  padding: 10px;
+
+  border: 1px solid rgb(111, 136, 119);
+  border-radius: 5px;
+  margin: auto;
+}
+
+.formLabel {
+  font-size: 20px;
+}
+
+.formInput {
+  margin-bottom: 20px;
+}
+
+.formBtn {
+  height: 40px;
+  cursor: pointer;
+  color: rgb(100, 128, 110);
+}
